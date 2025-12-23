@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+.vscode
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# data
+data/
